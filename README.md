@@ -1,6 +1,6 @@
 # Flutter Restaurant Web App
 
-A Flutter Web App built over the course of 7 months. It serves as a restaurant app, which implements omNovos Scan and Pay system, Google Maps, Google Sign In, and QR Code Scanning.
+A Flutter Web App built over the course of 7 months. It serves as a (fake) restaurant app, which implements omNovos Scan and Pay system, Google Maps, Google Sign In, and QR Code Scanning.
 
 Live version: https://ordering-app-927e2.web.app/
 
